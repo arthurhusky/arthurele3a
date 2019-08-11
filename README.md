@@ -15,3 +15,6 @@ O **servo motor** é um componente comum em projetos de robótica, pois com ele 
 
 ![esseaqui2](https://user-images.githubusercontent.com/53986050/62834473-8e5f5380-bc23-11e9-9ab6-2f9152bb4746.png)
 
+* Micro Servo Motor SG90
+
+![esseaqui3](https://user-images.githubusercontent.com/53986050/62834484-c2d30f80-bc23-11e9-8267-7f4a3ca4dcba.png)
