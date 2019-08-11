@@ -18,3 +18,24 @@ O **servo motor** é um componente comum em projetos de robótica, pois com ele 
 * Micro Servo Motor SG90
 
 ![esseaqui3](https://user-images.githubusercontent.com/53986050/62834484-c2d30f80-bc23-11e9-8267-7f4a3ca4dcba.png)
+
+* LED Vermelho 5MM
+
+![esseaqui4](https://user-images.githubusercontent.com/53986050/62834501-ff067000-bc23-11e9-9140-71a660918a5f.png)
+
+* LED Verde 5MM
+
+![esseaqui5](https://user-images.githubusercontent.com/53986050/62834509-2a895a80-bc24-11e9-800a-872289c01623.png)
+
+* Resistor de 150R
+
+![esseaqui6](https://user-images.githubusercontent.com/53986050/62834529-5b698f80-bc24-11e9-8df7-87cbb309a733.png)
+
+* Protoboard
+
+![esseaqui7](https://user-images.githubusercontent.com/53986050/62834543-86ec7a00-bc24-11e9-9275-cbecff036673.png)
+
+
+* Cabo Jumper Macho-Macho
+
+![esseaqui8](https://user-images.githubusercontent.com/53986050/62834551-a4214880-bc24-11e9-83d4-b4395d2acd12.png)
