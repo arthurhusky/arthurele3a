@@ -10,3 +10,8 @@ O **servo motor** é um componente comum em projetos de robótica, pois com ele 
 * Arduino Uno R3 com Cabo USB A/B
 
 ![esseaqui](https://user-images.githubusercontent.com/53986050/62834467-548e4d00-bc23-11e9-9323-f2777575e915.png)
+
+* Teclado Matricial do Tipo Membrana 4×4
+
+![esseaqui2](https://user-images.githubusercontent.com/53986050/62834473-8e5f5380-bc23-11e9-9ab6-2f9152bb4746.png)
+
