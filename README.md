@@ -39,3 +39,8 @@ O **servo motor** é um componente comum em projetos de robótica, pois com ele 
 * Cabo Jumper Macho-Macho
 
 ![esseaqui8](https://user-images.githubusercontent.com/53986050/62834551-a4214880-bc24-11e9-83d4-b4395d2acd12.png)
+
+# Diagrama de Montagem
+#255 0 0 **_ATENÇÃO: FAÇA TODAS AS LIGAÇÕES COM SEU ARDUINO DESCONECTADO DA ALIMENTAÇÃO._**
+![esseaqui9](https://user-images.githubusercontent.com/53986050/62834603-45a89a00-bc25-11e9-950c-a1915c62c9b4.png)
+
