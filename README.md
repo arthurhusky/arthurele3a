@@ -1,5 +1,6 @@
 # Fechadura controlada por senha
 Nesse projeto, utilizei a placa **Arduino Uno R3 com Cabo USB A/B.**
+
 ![esseaqui](https://user-images.githubusercontent.com/53986050/62834372-7d154780-bc21-11e9-9ab5-d3bb3b969550.png)
 # Descrição
 Trata-se de uma **fechadura acionada por senha, que será digitada em um teclado alfanumérico.** Para isso, utilizei um **micro servo motor** que irá simular a fechadura de uma porta e um **teclado matricial** para inserção da senha. O teclado que utilizei possui 16 teclas, onde 10 teclas são numerais, 4 literais e 2 de caracteres. As 16 teclas estão dispostas em 4 linhas por 4 colunas e o teclado possui um conector de 8 pinos para ligação.
