@@ -45,6 +45,8 @@ O **servo motor** é um componente comum em projetos de robótica, pois com ele 
 ![esseaqui9](https://user-images.githubusercontent.com/53986050/62834603-45a89a00-bc25-11e9-950c-a1915c62c9b4.png)
 
 # Créditos
-* Arthur Henrique Miquelão - Aluno do curso de Eletrotécnica - 3A do Centro Federal de Educação Tecnológica de Minas Gerais
-* Site que auxiliou no uso da linguagem: <a href=https://html-online.com/ </a>
-*
+* Arthur Henrique Miquelão - Aluno do curso de Eletrotécnica - 3A do Centro Federal de Educação Tecnológica de Minas Gerais;
+* Site que auxiliou no uso da linguagem: https://html-online.com/;
+* Guia essencial na elaboração do README.md: https://github.com/Epaminondaslage/Como-montar-seu-README;
+* Aulas sobre Arduino do Professor do Curso de Eletrotécnica do CEFET-MG, Epaminondas Lage;
+
