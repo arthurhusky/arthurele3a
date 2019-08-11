@@ -44,3 +44,7 @@ O **servo motor** é um componente comum em projetos de robótica, pois com ele 
 **ATENÇÃO: FAÇA TODAS AS LIGAÇÕES COM SEU ARDUINO DESCONECTADO DA ALIMENTAÇÃO**
 ![esseaqui9](https://user-images.githubusercontent.com/53986050/62834603-45a89a00-bc25-11e9-950c-a1915c62c9b4.png)
 
+# Créditos
+* Arthur Henrique Miquelão - Aluno do curso de Eletrotécnica - 3A do Centro Federal de Educação Tecnológica de Minas Gerais
+* Site que auxiliou no uso da linguagem: <a href=https://html-online.com/ </a>
+*
